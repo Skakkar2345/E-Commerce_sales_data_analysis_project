@@ -18,6 +18,6 @@ This project analyzes an e-commerce sales dataset using SQL and Power BI to deri
 7. **Optimize SQL Queries**: Utilize efficient SQL queries for data extraction, transformation, and trend analysis.
 
 ## Tools Used
-SQL (PostgreSQL) – Data extraction, transformation, and querying
+SQL (SQL Server) – Data extraction, transformation, and querying
 Power BI – Data visualization and dashboard creation
 Excel – Initial data exploration
